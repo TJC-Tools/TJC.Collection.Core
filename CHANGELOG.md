@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.5.9] - 2024-10-20
+
 ## [0.5.8] - 2024-10-20
 
 ## [0.5.7] - 2024-10-20
@@ -50,7 +52,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Package reference TJC.StringExtensions
 - Package reference TJC.TimeExtensions
 
-[Unreleased]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.5.8...HEAD
+[Unreleased]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.5.9...HEAD
+
+[0.5.9]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.5.8...v0.5.9
 
 [0.5.8]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.5.7...v0.5.8
 
