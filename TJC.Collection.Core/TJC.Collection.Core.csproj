@@ -33,7 +33,7 @@
   </ItemGroup>
   <!-- DEPENDENCIES -->
   <ItemGroup>
-	<PackageReference Include="TJC.EnumFlags" Version="0.7.2" />
+	<PackageReference Include="TJC.EnumFlags" Version="0.8.0" />
 	<PackageReference Include="TJC.Inclusion" Version="0.3.0" />
 	<PackageReference Include="TJC.Logging" Version="0.3.2" />
 	<PackageReference Include="TJC.Priority" Version="0.3.0" />
