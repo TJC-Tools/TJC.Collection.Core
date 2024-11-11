@@ -41,7 +41,7 @@
 	<PackageReference Include="TJC.Singleton" Version="0.5.2" />
 	<PackageReference Include="TJC.StringExtensions" Version="0.6.1" />
 	<PackageReference Include="TJC.TimeExtensions" Version="0.3.1" />
-	<PackageReference Include="TJC.AssemblyExtensions" Version="0.8.1" />
+	<PackageReference Include="TJC.AssemblyExtensions" Version="0.8.2" />
   </ItemGroup>
   <!-- TASKS -->
   <UsingTask TaskName="ReadFileContent" TaskFactory="RoslynCodeTaskFactory" AssemblyName="Microsoft.Build.Tasks.Core">
