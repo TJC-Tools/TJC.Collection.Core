@@ -5,3 +5,6 @@
 [![NuGet Downloads](https://img.shields.io/nuget/dt/TJC.Collection.Core)](https://www.nuget.org/packages/TJC.Collection.Core)
 ![Size](https://img.shields.io/github/repo-size/TJC-Tools/TJC.Collection.Core)
 [![License](https://img.shields.io/github/license/TJC-Tools/TJC.Collection.Core.svg)](LICENSE)
+
+## Documentation
+- [Changelog](CHANGELOG.md)
