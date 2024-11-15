@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.23.1] - 2024-11-15
+
 ### Added
 
 - Changelog changed check workflow for pr's
@@ -138,7 +140,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Package reference TJC.StringExtensions
 - Package reference TJC.TimeExtensions
 
-[Unreleased]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.23.0...HEAD
+[Unreleased]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.23.1...HEAD
+
+[0.23.1]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.23.0...v0.23.1
 
 [0.23.0]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.22.2...v0.23.0
 
