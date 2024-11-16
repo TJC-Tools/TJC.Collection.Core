@@ -37,7 +37,7 @@
 	<PackageReference Include="TJC.EnumFlags" Version="0.9.3" />
 	<PackageReference Include="TJC.Inclusion" Version="0.4.3" />
 	<PackageReference Include="TJC.Logging" Version="0.5.2" />
-	<PackageReference Include="TJC.Priority" Version="0.4.1" />
+	<PackageReference Include="TJC.Priority" Version="0.4.3" />
 	<PackageReference Include="TJC.Singleton" Version="0.5.3" />
 	<PackageReference Include="TJC.StringExtensions" Version="0.6.3" />
 	<PackageReference Include="TJC.TimeExtensions" Version="0.3.1" />
