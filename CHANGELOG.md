@@ -44,124 +44,67 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 [Unreleased]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.23.7...HEAD
 
-[0.23.7]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.23.6...v0.23.7
 
-[0.23.6]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.23.5...v0.23.6
 
-[0.23.5]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.23.4...v0.23.5
 
-[0.23.4]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.23.3...v0.23.4
 
-[0.23.3]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.23.2...v0.23.3
 
-[0.23.2]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.23.1...v0.23.2
 
 [0.23.1]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.23.0...v0.23.1
 
-[0.23.0]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.22.2...v0.23.0
 
-[0.22.2]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.22.1...v0.22.2
 
-[0.22.1]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.22.0...v0.22.1
 
-[0.22.0]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.21.1...v0.22.0
 
 [0.21.1]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.21.0...v0.21.1
 
-[0.21.0]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.20.2...v0.21.0
 
-[0.20.2]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.20.1...v0.20.2
 
-[0.20.1]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.20.0...v0.20.1
 
-[0.20.0]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.19.0...v0.20.0
 
-[0.19.0]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.18.2...v0.19.0
 
-[0.18.2]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.18.1...v0.18.2
 
-[0.18.1]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.18.0...v0.18.1
 
-[0.18.0]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.17.0...v0.18.0
 
-[0.17.0]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.16.0...v0.17.0
 
-[0.16.0]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.15.0...v0.16.0
 
-[0.15.0]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.14.7...v0.15.0
 
-[0.14.7]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.14.6...v0.14.7
 
-[0.14.6]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.14.5...v0.14.6
 
-[0.14.5]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.14.4...v0.14.5
 
-[0.14.4]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.14.3...v0.14.4
 
-[0.14.3]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.14.2...v0.14.3
 
-[0.14.2]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.14.1...v0.14.2
 
 [0.14.1]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.14.0...v0.14.1
 
-[0.14.0]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.13.0...v0.14.0
 
-[0.13.0]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.12.0...v0.13.0
 
-[0.12.0]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.11.0...v0.12.0
 
-[0.11.0]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.10.0...v0.11.0
 
-[0.10.0]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.9.0...v0.10.0
 
-[0.9.0]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.8.0...v0.9.0
 
-[0.8.0]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.7.0...v0.8.0
 
-[0.7.0]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.6.0...v0.7.0
 
-[0.6.0]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.5.14...v0.6.0
 
-[0.5.14]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.5.13...v0.5.14
 
-[0.5.13]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.5.12...v0.5.13
 
-[0.5.12]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.5.11...v0.5.12
 
-[0.5.11]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.5.10...v0.5.11
 
-[0.5.10]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.5.9...v0.5.10
 
-[0.5.9]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.5.8...v0.5.9
 
-[0.5.8]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.5.7...v0.5.8
 
-[0.5.7]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.5.6...v0.5.7
 
-[0.5.6]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.5.5...v0.5.6
 
-[0.5.5]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.5.4...v0.5.5
 
-[0.5.4]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.5.3...v0.5.4
 
-[0.5.3]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.5.2...v0.5.3
 
-[0.5.2]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.5.1...v0.5.2
 
-[0.5.1]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.5.0...v0.5.1
 
-[0.5.0]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.4.3...v0.5.0
 
-[0.4.3]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.4.2...v0.4.3
 
-[0.4.2]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.4.1...v0.4.2
 
-[0.4.1]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.4.0...v0.4.1
 
-[0.4.0]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.3.0...v0.4.0
 
-[0.3.0]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.2.0...v0.3.0
 
-[0.2.0]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.1.0...v0.2.0
 
 [0.1.0]: https://github.com/TJC-Tools/TJC.Collection.Core/releases/tag/v0.1.0
