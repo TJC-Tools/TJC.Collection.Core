@@ -54,7 +54,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 [0.26.0]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.25.2...v0.26.0
 
-[0.25.2]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.24.0...v0.25.2
 
 [0.24.0]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.23.1...v0.24.0
 
