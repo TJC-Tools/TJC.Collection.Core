@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.25.0] - 2025-04-25
+
 ### Added
 
 - Package reference TJC.StateMachine
@@ -48,27 +50,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Package reference TJC.StringExtensions
 - Package reference TJC.TimeExtensions
 
-[Unreleased]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.25.2...HEAD
+[Unreleased]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.25.0...HEAD
 
-[0.25.2]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.25.1...v0.25.2
-
-[0.25.1]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.25.0...v0.25.1
-
-[0.25.0]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.24.7...v0.25.0
-
-[0.24.7]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.24.6...v0.24.7
-
-[0.24.6]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.24.5...v0.24.6
-
-[0.24.5]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.24.4...v0.24.5
-
-[0.24.4]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.24.3...v0.24.4
-
-[0.24.3]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.24.2...v0.24.3
-
-[0.24.2]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.24.1...v0.24.2
-
-[0.24.1]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.24.0...v0.24.1
+[0.25.0]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.24.0...v0.25.0
 
 [0.24.0]: https://github.com/TJC-Tools/TJC.Collection.Core/compare/v0.23.1...v0.24.0
 
