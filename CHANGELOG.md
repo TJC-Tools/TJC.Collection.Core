@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- Package reference TJC.Decorator
+
 ## [0.28.0] - 2025-06-23
 
 ## [0.27.0] - 2025-06-12
