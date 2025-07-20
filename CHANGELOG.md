@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+-  Updated TJC.Singleton
+
 ## [0.30.1] - 2025-07-20
 
 ### Changed
@@ -24,8 +28,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Package reference TJC.Decorator
-
-## [0.28.0] - 2025-06-23
 
 ## [0.26.0] - 2025-04-25
 
