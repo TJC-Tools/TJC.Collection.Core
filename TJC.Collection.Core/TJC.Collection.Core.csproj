@@ -42,7 +42,7 @@
 	<PackageReference Include="TJC.Singleton" Version="0.6.0" />
 	<PackageReference Include="TJC.StringExtensions" Version="0.6.6" />
 	<PackageReference Include="TJC.TimeExtensions" Version="0.4.9" />
-	<PackageReference Include="TJC.AssemblyExtensions" Version="0.8.6" />
+	<PackageReference Include="TJC.AssemblyExtensions" Version="0.8.7" />
 	<PackageReference Include="TJC.StateMachine" Version="0.2.0" />
 	<PackageReference Include="TJC.Persist" Version="0.2.0" />
   </ItemGroup>
