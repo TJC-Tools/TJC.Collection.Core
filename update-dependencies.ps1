@@ -44,7 +44,7 @@ try {
 
     $existingBranch = & git -C $repositoryRoot branch --list $branchName
     if ($existingBranch) {
-        throw "Branch '$branchName' already exists. Delete or rename it before running this script."
+        Invoke-Git @('branch', '-D', $branchName)
     }
 
     Invoke-Git @('checkout', '-b', $branchName)
