@@ -50,13 +50,13 @@ try {
     Invoke-Git @('checkout', '-b', $branchName)
 
     [xml] $project = Get-Content -LiteralPath $projectPath
-    $packageReferences = @($project.Project.ItemGroup.PackageReference)
+    $packageReferences = @($project.SelectNodes('//PackageReference'))
     if ($packageReferences.Count -eq 0) {
         throw "No PackageReference entries found in $projectPath"
     }
 
     foreach ($packageReference in $packageReferences) {
-        $packageId = [string] $packageReference.Include
+        $packageId = $packageReference.GetAttribute('Include')
         if ([string]::IsNullOrWhiteSpace($packageId)) {
             throw "A PackageReference in $projectPath has no Include value."
         }
