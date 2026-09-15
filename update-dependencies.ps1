@@ -1,7 +1,8 @@
 $ErrorActionPreference = 'Stop'
 
 $repositoryRoot = $PSScriptRoot
-$projectPath = Join-Path $repositoryRoot 'TJC.Collection.Core\TJC.Collection.Core.csproj'
+$repositoryName = Split-Path -Leaf $repositoryRoot
+$projectPath = Join-Path $repositoryRoot "$repositoryName\$repositoryName.csproj"
 $branchName = 'update-dependencies'
 
 function Invoke-Git {
@@ -84,3 +85,5 @@ finally {
         Invoke-Git @('checkout', 'main')
     }
 }
+
+Start-Process "https://github.com/TJC-Tools/$repositoryName/compare/main...$branchName"
