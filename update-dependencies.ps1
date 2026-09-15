@@ -84,3 +84,5 @@ finally {
         Invoke-Git @('checkout', 'main')
     }
 }
+
+Start-Process 'https://github.com/TJC-Tools/TJC.Collection.Core/compare/main...update-dependencies'
